@@ -1,4 +1,5 @@
-# GUVI_CAPSTONE_PROJECT
+# GUVI_CAPSTONE_PROJECT\\ YOUTUBE DATA HARVESTING AND WAREHOUSING USING MONGODB,MYSQL & STREAMLIT
+
 YOUTUBE DATA HARVESTING AND WAREHOUSING USING MONGODB,MYSQL & STREAMLIT
 
 Problem Statement:
@@ -7,11 +8,9 @@ This project is to build a Streamlit app that permits users to analyze data from
 
 Technology Stack Used:-
 
-Python
-MySQL
-MongoDB
-Google Client Library
-Youtube API
+✓Google Client Library
+I
+
 
 Approach:-
 

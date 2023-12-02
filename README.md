@@ -37,3 +37,6 @@ Approach:-
 5.Utilize SQL queries to join tables within the SQL data warehouse and retrieve specific channel data based on user input. For that the SQL table previously made has to be properly given the the foreign and the primary key.
 
 6.The retrieved data is displayed with the help of streamlit application.
+
+
+ PROJECT OUTPUT RECORDING LINK -----  https://youtu.be/fdvrtH3aMao?si=9UP7zUlWYS3Sssc6

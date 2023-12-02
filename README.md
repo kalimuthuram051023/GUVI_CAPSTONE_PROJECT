@@ -9,13 +9,19 @@ This project is to build a Streamlit app that permits users to analyze data from
 Technology Stack Used:-
 
 1.Google Client Library
+
 2.Youtube API
+
 3.VS code
+
 4.Python
+
 5.MongoDB
+
 6.MYSQL
+
 7.Streamlit
-I
+
 
 Approach:-
 
